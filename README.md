@@ -14,4 +14,4 @@ are used to classify the images. In the results analysis,
 InceptionV3 outperformed the EfficientNet model. The
 inceptionV3 model achieved 90 percent accuracy whereas
 EfficientNet achieved poor accuracy at 40 percent. The experimental analysis is conducted on two datasets available
-on Kaggle Dermnet and skinned
+on Kaggle Dermnet and skinned.
