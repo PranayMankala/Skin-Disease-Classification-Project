@@ -1,6 +1,6 @@
 # Skin_Disease_Classification_DeepLearning_FinalProject
 
-Abstract—This study investigates the efficiency of transfer learning models in predicting 5 categories of common
+Abstract — This study investigates the efficiency of transfer learning models in predicting 5 categories of common
 skin diseases Acne and Rosacea, vitiligo, Tinea Ringworm
 Candidiasis and other Fungal Infections, Melanoma Skin
 Cancer Nevi and Moles, and Eczema. Addressing common
