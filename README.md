@@ -5,7 +5,7 @@ skin diseases Acne and Rosacea, vitiligo, Tinea Ringworm
 Candidiasis and other Fungal Infections, Melanoma Skin
 Cancer Nevi and Moles, and Eczema. Addressing common
 skin conditions holds significant public health implications,
-as they contribute to healthcare costs and resource allocation. Common skin conditions such as acne, rosacea,
+as they contribute to healthcare costs and resource allocation. Common skin conditions such as acne, rosacea,
 vitiligo, fungal infections, moles, and eczema can occur
 due to various factors, including genetics, environmental
 influences, lifestyle factors, and immune system responses.
